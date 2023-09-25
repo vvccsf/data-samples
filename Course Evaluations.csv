@@ -1,6 +1,6 @@
-PROF,COURSE EVAL,PROF EVAL,PROF GENDER,PROF AGE,SIZE,PROF BEAUTY,PROF PHOTO,CLASS LEVEL,,GENDER,,LEVEL,,
-1,4.3,4.7,female,36,24,5.000,color,upper,,female,40,upper,64,
-2,4.5,4.6,male,59,17,3.000,color,upper,,male,53,lower,29,
+PROF,COURSE EVAL,PROF EVAL,PROF GENDER,PROF AGE,SIZE,PROF BEAUTY,PROF PHOTO,CLASS LEVEL
+1,4.3,4.7,female,36,24,5.000,color,upper,,,,,,
+2,4.5,4.6,male,59,17,3.000,color,upper,,,,,,
 3,3.7,4.1,male,51,55,3.333,color,upper,,,,,,
 4,4.3,4.5,female,40,40,3.167,color,upper,,,,,,
 5,4.4,4.8,female,31,42,7.333,color,upper,,,,,,
